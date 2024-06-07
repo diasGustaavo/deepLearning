@@ -19,7 +19,7 @@ O repositório tem como objetivo armazenar, organizar e compartilhar exercícios
 - **Problemas de Classificação Geométrica:** Exploração da classificação de padrões que formam figuras geométricas específicas, utilizando treinamento de redes perceptron com metodologias variadas.
 - **Predição em Séries Temporais:** Uso de perceptrons multicamadas para previsões em uma série temporal selecionada, com análises subsequentes sobre os erros de predição.
 
-### Lista 2: Data de Entrega: 
+### Lista 2:
 
 - **Predição de Sobrevivência no Titanic:** Desenvolvimento de uma rede neural para prever a sobrevivência de passageiros do Titanic, considerando variáveis como nome, idade e classe socioeconômica. 
 - **Classificação de Dígitos com MLP e CNN:** Implementação e comparação de duas redes neurais para a classificação de dígitos manuscritos utilizando a base de dados MNIST: uma baseada em perceptrons de múltiplas camadas e a outra em Rede Neural Convolucional.
